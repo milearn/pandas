@@ -12,6 +12,7 @@ yfinance = "^0.1.67"
 DateTime = "^4.3"
 pandas-datareader = "^0.10.0"
 openpyxl = "^3.0.9"
+matplotlib = "^3.5.1"
 
 [tool.poetry.dev-dependencies]
 
